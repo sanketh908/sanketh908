@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am a Java Dev<br>i study java and other aspects of it <br>i am learning spring boot <br>i like learning and also teaching others<br>
+i am a Java programer<br>i study java and other aspects of it <br>i am learning spring boot <br>i like learning and also teaching others<br>
 
 
 ## 🌐 Socials:
