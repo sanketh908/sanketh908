@@ -1,6 +1,7 @@
 # 💫 About Me:
 ☕ Java Programmer<br><br>📘 Studying Core Java and related concepts<br><br>🌱 Learning Spring Boot<br><br>🧩 Interested in backend development<br><br>🚀 Passionate about learning new technologies<br><br>🤝 Enjoy teaching and helping others
-
+<hr>
+<hr>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanketh507_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanketh-s-965947397) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/u/Guilty_Way_4516/s/Fm0r9OfZtH) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32307647/sanketh-s?tab=profile) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sanketh507) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sankeths908@gmail.com) 
